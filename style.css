@@ -515,7 +515,7 @@ Tags: black, white, light, one-column, two-columns, left-sidebar, fluid-layout, 
    margin-bottom: 80px;
  }
 
- .wpt-avatar {
+ .fol-avatar {
    display: inline-block;
    border-radius: 500px;
    overflow: hidden;
@@ -524,15 +524,15 @@ Tags: black, white, light, one-column, two-columns, left-sidebar, fluid-layout, 
    vertical-align: middle;
    margin: 0 0 20px;
  }
- .wpt-avatar img {
+ .fol-avatar img {
    display: block;
  }
- .wpt-avatar.small {
+ .fol-avatar.small {
    width: 24px;
    height: 24px;
    margin: 0 5px 0 0;
  }
- .wpt-avatar.large {
+ .fol-avatar.large {
    width: auto;
    height: auto;
    max-width: 100%;
@@ -922,12 +922,12 @@ Tags: black, white, light, one-column, two-columns, left-sidebar, fluid-layout, 
    color: #c6ccd2;
  }
 
- .author-bio .wpt-avatar {
+ .author-bio .fol-avatar {
    margin: 20px auto 40px;
    display: block;
  }
  @media all and (min-width: 40.063em) {
-   .author-bio .wpt-avatar {
+   .author-bio .fol-avatar {
      margin: 20px 0 40px;
    }
  }
